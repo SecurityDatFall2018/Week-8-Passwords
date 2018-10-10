@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="BCrypt-Official" Version="0.1.109"/>
+    <PackageReference Include="BCrypt.Net" Version="*"/>
+  </ItemGroup>
+</Project>
